@@ -1,0 +1,27 @@
+{
+  "name": "typescript-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i3elj/typescript-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i3elj/typescript-blog/issues"
+  },
+  "homepage": "https://github.com/i3elj/typescript-blog#readme",
+  "dependencies": {
+    "@types/node": "^17.0.18",
+    "ts-node": "^10.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
