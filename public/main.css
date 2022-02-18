@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Zen Kaku Gothic Antique', sans-serif;
+}
+
+body {
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(#63636A, #45454F);
+  background-repeat: no-repeat;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0px 10px;
+}
+
+header > h1 {
+  font-size: 38px;
+  font-weight: 400;
+  background: linear-gradient(to right, #CDCDD4, rgba(0,0,0,0));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+}
+
+header > nav > a {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 400;
+  color: #CDCDD4;
+  margin-right: 10px;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 166px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+};
