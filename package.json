@@ -1,28 +1,22 @@
 {
-  "name": "typescript-blog",
+  "name": "coffeescript-blog",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "personal blog made in coffeescript",
+  "main": "index.coffee",
   "scripts": {
-    "start": "ts-node ./src/main.ts"
+    "start": ""
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/i3elj/typescript-blog.git"
+    "url": "git+https://github.com/i3elj/coffeescript-blog.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bernardo Carvalho Rodriguez Guisande",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/i3elj/typescript-blog/issues"
+    "url": "https://github.com/i3elj/coffeescript-blog/issues"
   },
-  "homepage": "https://github.com/i3elj/typescript-blog#readme",
-  "dependencies": {
-    "@types/node": "^17.0.18",
-    "ts-node": "^10.5.0"
-  },
-  "devDependencies": {
-    "ts-node-dev": "^1.1.8",
-    "typescript": "^4.5.5"
-  }
+  "homepage": "https://github.com/i3elj/coffeescript-blog#readme",
+  "dependencies": { },
+  "devDependencies": { }
 }
