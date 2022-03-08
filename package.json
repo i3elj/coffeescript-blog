@@ -17,6 +17,8 @@
     "url": "https://github.com/i3elj/coffeescript-blog/issues"
   },
   "homepage": "https://github.com/i3elj/coffeescript-blog#readme",
-  "dependencies": { },
-  "devDependencies": { }
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^17.0.2"
+  }
 }
