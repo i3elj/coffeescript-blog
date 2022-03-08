@@ -1,5 +1,3 @@
-function test(a:number, b:number) {
-  return a + b
-}
+soma = (a, b) -> a + b
 
-console.log(test(1, 2))
+console.log(soma 1, 2)
